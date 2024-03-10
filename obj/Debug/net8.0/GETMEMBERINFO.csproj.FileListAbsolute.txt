@@ -1,0 +1,14 @@
+C:\Users\huadep1\source\repos\GETMEMBERINFO\bin\Debug\net8.0\GETMEMBERINFO.exe
+C:\Users\huadep1\source\repos\GETMEMBERINFO\bin\Debug\net8.0\GETMEMBERINFO.deps.json
+C:\Users\huadep1\source\repos\GETMEMBERINFO\bin\Debug\net8.0\GETMEMBERINFO.runtimeconfig.json
+C:\Users\huadep1\source\repos\GETMEMBERINFO\bin\Debug\net8.0\GETMEMBERINFO.dll
+C:\Users\huadep1\source\repos\GETMEMBERINFO\bin\Debug\net8.0\GETMEMBERINFO.pdb
+C:\Users\huadep1\source\repos\GETMEMBERINFO\obj\Debug\net8.0\GETMEMBERINFO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huadep1\source\repos\GETMEMBERINFO\obj\Debug\net8.0\GETMEMBERINFO.AssemblyInfoInputs.cache
+C:\Users\huadep1\source\repos\GETMEMBERINFO\obj\Debug\net8.0\GETMEMBERINFO.AssemblyInfo.cs
+C:\Users\huadep1\source\repos\GETMEMBERINFO\obj\Debug\net8.0\GETMEMBERINFO.csproj.CoreCompileInputs.cache
+C:\Users\huadep1\source\repos\GETMEMBERINFO\obj\Debug\net8.0\GETMEMBERINFO.dll
+C:\Users\huadep1\source\repos\GETMEMBERINFO\obj\Debug\net8.0\refint\GETMEMBERINFO.dll
+C:\Users\huadep1\source\repos\GETMEMBERINFO\obj\Debug\net8.0\GETMEMBERINFO.pdb
+C:\Users\huadep1\source\repos\GETMEMBERINFO\obj\Debug\net8.0\GETMEMBERINFO.genruntimeconfig.cache
+C:\Users\huadep1\source\repos\GETMEMBERINFO\obj\Debug\net8.0\ref\GETMEMBERINFO.dll
